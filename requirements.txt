@@ -1,0 +1,23 @@
+# Deployment requirements for SimpleANN / SimpleRNN (Python 3.11)
+
+# Core Data Science Libraries
+numpy>=2.0.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+tensorflow>=2.20.0
+h5py>=3.8.0
+
+# Streamlit App
+streamlit>=1.28.0
+
+# Optional Keras-SciKit bridge (needed only if you wrap TF models for sklearn)
+scikeras>=0.10.0
+
+nltk
+
+tensorboard
+
+matplotlib
